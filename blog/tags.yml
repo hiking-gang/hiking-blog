@@ -6,4 +6,8 @@ allgaeu:
   label: Allgaeu
   permalink: /allgaeu
   description: Allgaeu tag description
+austria:
+  label: Austria
+  permalink: /austria
+  description: austria related activities
 

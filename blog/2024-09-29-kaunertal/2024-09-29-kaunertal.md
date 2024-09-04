@@ -15,10 +15,15 @@ September 2024
 Where:
 Kaunertal (Rauhekopfhuette)
 
-## arrival (from Stuttgart) by 🚝 and 🚌
-		- ride to Landeck
+## Arrival 
+
+from Stuttgart by 🚝 and 🚌
+
+### Ride to Landeck
 			- Saturday ![arrival-train.png](./assets/arrival-train.png)
-		- continue by bus to [Feichten](https://www.kaunertal.com/de/Ihr-Kaunertal/Orte-Sehenswuerdigkeiten/Kaunertal-Feichten) at the [Kaunertal](https://www.kaunertal.com/de) up to the climbing area Fernegries, direct at the tollway
+### Landeck to Fernergries
+
+continue by bus to [Feichten](https://www.kaunertal.com/de/Ihr-Kaunertal/Orte-Sehenswuerdigkeiten/Kaunertal-Feichten) at the [Kaunertal](https://www.kaunertal.com/de) up to the climbing area Fernegries, direct at the tollway
 			- connections ~ 1.5h ![arrival-bus.png](./assets/arrival-bus.png)
 	- **ascent**: from the bus stop Fernegries to Fernegarten passing Gepatschgletscher
 	- ascent from Gepatschhaus
@@ -26,12 +31,8 @@ Kaunertal (Rauhekopfhuette)
 		- 5,9 km
 		- 887 hm
 		- ~ 3h
-	- departure
-		![departure-train.png](./assets/departure-train.png)
-- Weißseespitze - Tour:
-  https://www.alpenvereinaktiv.com/s/IVpmMa
 
-### pre-requisites
+## Pre-requisites
 
 #### condition
 - up to ~ 9.5 day-tour incl. breaks
@@ -40,4 +41,11 @@ Kaunertal (Rauhekopfhuette)
 - medicine / first aid kit
 - sleeping bag for the huts
 - ear plugs
+
+## Weißseespitze - Tour
+https://www.alpenvereinaktiv.com/s/IVpmMa
+
+## Departure
+		![departure-train.png](./assets/departure-train.png)
+
 

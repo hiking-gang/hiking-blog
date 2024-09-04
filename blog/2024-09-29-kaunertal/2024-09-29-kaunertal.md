@@ -40,12 +40,42 @@ continue by bus to [Feichten](https://www.kaunertal.com/de/Ihr-Kaunertal/Orte-Se
 #### equipment
 - medicine / first aid kit
 - sleeping bag for the huts
-- ear plugs
+- ear plugs (optional including some eye-cover)
+- mountain boots which can be used with crampons
+- backpack
+- hat (for cold)
+- basecap
+- bandana
+- (long) functional underwear (which dries quickly)
+- hardshell jacket
+- isolation jacket
+- gloves
+- hardshell pants
+- optional: additional zipper pants
+- sunscreen (Sonnenbrille, Creme, Lippenstift)
+- sunglass
+- thermosbottle
+- headlamp
+- bivvy bag
+- climbing harness
+- helmet
+- crampons
+- ice-pick
+- ice-screw
+- sticks
+- 2 HMS-screw-carabiners (https://www.alpinesavvy.com/blog/gearspeak-whats-an-hms-carabiner-and-why-do-you-want-one)
+- 1 HMS-SafeBiner
+- 4 normal carabiners
+- 2 slings sewed (2x 120 cm)
+- 1 short prusik (~ 30 cm)
+- 2 accessory cords (2,0 and 4,0 m length)
+- 1 Bei Übernachtung: Hüttenschlafsack, Waschzeug
+- 1 small towel and hygiene things
 
 ## Weißseespitze - Tour
 https://www.alpenvereinaktiv.com/s/IVpmMa
 
 ## Departure
-		![departure-train.png](./assets/departure-train.png)
+![departure-train.png](./assets/departure-train.png)
 
 

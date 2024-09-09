@@ -69,8 +69,20 @@ continue by bus to [Feichten](https://www.kaunertal.com/de/Ihr-Kaunertal/Orte-Se
 - 2 slings sewed (2x 120 cm)
 - 1 short prusik (~ 30 cm)
 - 2 accessory cords (2,0 and 4,0 m length)
-- 1 Bei Übernachtung: Hüttenschlafsack, Waschzeug
 - 1 small towel and hygiene things
+- thermo bottle
+- enough water
+- gas-cooker
+- lighter
+- spoon
+- knife
+- noodles
+- beans, tomatoes, olives, bellpepper
+- oats
+- apples
+- carrots
+- nuts
+- bars
 
 ## Weißseespitze - Tour
 https://www.alpenvereinaktiv.com/s/IVpmMa

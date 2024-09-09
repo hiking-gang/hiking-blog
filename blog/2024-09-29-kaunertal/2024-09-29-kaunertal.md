@@ -78,6 +78,8 @@ continue by bus to [Feichten](https://www.kaunertal.com/de/Ihr-Kaunertal/Orte-Se
 - knife
 - noodles
 - beans, tomatoes, olives, bellpepper
+- olive oil, garlic
+- tomatosauce
 - oats
 - apples
 - carrots
